@@ -1,22 +1,18 @@
-# <Your-Project-Title>
+# <Prework Study Guide Webpage>
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? Having been in the Military for 22 years as a Field Artillery Forward Observer I wanted to shift focuses and try something I knew nothing about.  I embrace the challenge and look forward to the learning curve.   
+- Why did you build this project? I've built a lot of things that are physically tangible and see this as an opertunity to do similar work that I can look back on and feel accomplished and proud.
+- What problem does it solve?  The overwhelming fear of learning something foreign accompanied by the basic fundimentals to construct and debug a webpage.
+- What did you learn?  To be patient yet very precise and accurate while somehow learnig a new language.  Additionaly I learned about the tools necessary to accomplish the task at hand.  It's only a matter of time or repatition before accurate proficiency is attained.  
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Installation](#NA)
+- [Usage](#)
+- [Credits](#NA)
+- [License](#MIT)
 
 ## Installation
 
